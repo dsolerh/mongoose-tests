@@ -1,0 +1,20 @@
+{
+  "name": "mongoose-tests",
+  "version": "0.0.1",
+  "description": "mongoose code tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose",
+    "odm",
+    "mongodb",
+    "no-sql"
+  ],
+  "author": "dsolerh",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.1.6"
+  }
+}
