@@ -16,5 +16,14 @@
   "license": "ISC",
   "dependencies": {
     "mongoose": "^6.1.6"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsolerh/mongoose-tests.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dsolerh/mongoose-tests/issues"
+  },
+  "homepage": "https://github.com/dsolerh/mongoose-tests#readme"
 }
