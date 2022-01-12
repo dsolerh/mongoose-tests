@@ -4,6 +4,7 @@
   "description": "mongoose code tests",
   "main": "index.js",
   "scripts": {
+    "s:dev":"nodemon index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -17,7 +18,9 @@
   "dependencies": {
     "mongoose": "^6.1.6"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dsolerh/mongoose-tests.git"
