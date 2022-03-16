@@ -32,7 +32,7 @@ async function run() {
       { new: true }
     );
     console.log("🚀 ~ file: index.js ~ line 30 ~ run ~ r", r);
-    const r2 = await r.update({ age: 24 }, { new: true });
+    const r2 = await r.updateOne({ age: 20 }, { new: true });
     console.log("🚀 ~ file: index.js ~ line 36 ~ run ~ r2", r2)
     console.log("🚀 ~ file: index.js ~ line 36 ~ run ~ r", r);
 
